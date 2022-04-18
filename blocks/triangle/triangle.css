@@ -1,0 +1,20 @@
+.triangle {
+    position: absolute;
+    width: 877px;
+    height: 877px;
+    background-image: url(../../images/triangle.svg);
+    background-size: contain;
+    right: -210px;
+    top: 0;
+    animation: rotate_triangle linear 25s infinite;
+    z-index: 1;
+  }
+
+  @keyframes rotate_triangle {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }

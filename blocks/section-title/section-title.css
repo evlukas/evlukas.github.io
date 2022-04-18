@@ -1,0 +1,8 @@
+.section-title {
+    margin: 0 auto 20px;
+    width: 60%;
+    text-align: center;
+    z-index: 2;
+    position: relative;
+    font: 700 60px/1.15 "Inter", Arial, sans-serif;
+  }

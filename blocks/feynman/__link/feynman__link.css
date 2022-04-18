@@ -1,0 +1,7 @@
+.feynman__link {
+    font: normal 36px/51px "Inter", Arial, sans-serif;
+    display: inline-block;
+    position: absolute;
+    right: 48px;
+    top: 50%;
+  }
